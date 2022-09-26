@@ -10,6 +10,7 @@ Introduction:
 	An investigation into:
 		The impact of singing on infant development and emotional state
 		The role of mothers as a mentor for children both through the use of music and to teach music
+		Infants' familiarity with and ability to detect changes in music
 
 Objectives:
 	Detail the impact of mother's singing on young children
@@ -21,7 +22,7 @@ Research Questions:
 	(2)When are infants usually sung to?
 	(3)What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
 	(4)How do infants respond to singing?
-	(5)How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
+	(5)How does infants' ability to detect changes in musical properties differ from adults' ability to do the same? <--CHANGE THIS QUESTION!-->
 	(6)What stages do children go through in learning to sing?
 	(7)Are all mothers singing mentors?
 
@@ -36,11 +37,33 @@ Methodology:
 	No direct research used
 	<>
 
-Results:
-	<>
-
-Discussion:
-	<>
+Results and Discussion:
+	What kinds of songs are usually sung to infants?
+		<>
+	When are infants usually sung to?
+		<>
+	What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
+		<>
+	How do infants respond to singing?
+		<>
+	How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
+		After hearing a brief melody several times, can detect small pitch change (one semitone) in single note of a melody
+		Pitch contour of melody (pattern of directional changes) seems to be most important to infants
+		Sometimes can even detect interval changes when melodic contour remains the same
+		Detect changes in rhythmic grouping even in context of concurrent tempo changes - focus on relative duration instead of absolute, like adults
+		More readily detect pitch or timing changes in melodies with "good" rhythms than with "bad" rhythms - could be inherent preference for temporal regularity
+		More accurate at detecting timing changes in patterns with duple meter than with triple meter - could be greater exposure to duple meter or greater simplicity of duple meter
+		Perception of metrically ambiguous pattern influenced by pattern of movement they experience while listening - bounced on every second beat responded to duple version as familiar, bounced every third respond to triple version as familiar
+		Starting at 6-7mo, spontaneous movement to rhythmic music becomes increasingly common, but movement is not coordinated with music
+		Adults readily detect small pitch change (less than semitone) in music based on familiar major scale, but fail to detect similar change in music based on unfamiliar scale
+		9mo infants detect both types of changes
+		Western adults detect metrical changes in context of Balkan music with simple meter but not complex (non-Western) meter
+		By 12mo, infants performed the same way, but knowledge is "fragmentary and superficial" rather than "deeply entrenched" like adults - 12mo can still outperform on complex meter tasks
+		"In effect, six-month-olds outperformed adults on a task involving complex meter, and 12-month-olds learned the task more readily than adults."
+	What stages do children go through in learning to sing?
+		<>
+	Are all mothers singing mentors?
+		<>
 
 Conclusion:
 	(1)<>
@@ -51,7 +74,7 @@ Conclusion:
 	(6)<>
 	(7)Yes, in a sense. While not always using vocal interaction (deaf family), sign language and other gestures towards the child are more rythmic than when interacting with adults
 	Children (especially infants) acquire music similarly to how they acquire language
-		<very early age> can notice changes in musical properties in both western and non-western music, western children quickly lose this ability
+		<very early age> can notice changes in musical properties in both Western and non-Western music, Western children quickly lose this ability
 		<>
 	<>
 
