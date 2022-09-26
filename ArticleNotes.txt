@@ -27,6 +27,7 @@ Research Questions:
 	(7)Are all mothers singing mentors?
 
 Literature Review:
+	[juhani]
 	<>
 
 Research Question/Hypothesis:
@@ -39,12 +40,14 @@ Methodology:
 
 Results and Discussion:
 	What kinds of songs are usually sung to infants?
+		[juhani]
 		<>
 	When are infants usually sung to?
 		<>
 	What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
 		<>
 	How do infants respond to singing?
+		[juhani]
 		<>
 	How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
 		[juhani]
