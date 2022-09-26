@@ -10,7 +10,7 @@ Introduction:
 	An investigation into:
 		The impact of singing on infant development and emotional state
 		The role of mothers as a mentor for children both through the use of music and to teach music
-		Infants' familiarity with and ability to detect changes in music
+		Infants' perception of music and ability to detect changes in musical properties
 
 Objectives:
 	Detail the impact of mother's singing on young children
@@ -47,6 +47,7 @@ Results and Discussion:
 	How do infants respond to singing?
 		<>
 	How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
+		[juhani]
 		After hearing a brief melody several times, can detect small pitch change (one semitone) in single note of a melody
 		Pitch contour of melody (pattern of directional changes) seems to be most important to infants
 		Sometimes can even detect interval changes when melodic contour remains the same
