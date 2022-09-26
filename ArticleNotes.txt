@@ -5,15 +5,16 @@ text conventions:
 
 Article Presentation Notes:
 
+Introduction:
+	<--should have this section before objectives, since we should introduce non-standard nature of article-->
+	An investigation into:
+		The impact of singing on infant development and emotional state
+		The role of mothers as a mentor for children both through the use of music and to teach music
+
 Objectives:
 	Detail the impact of mother's singing on young children
 	Not a research work itself, instead a discussion work
 	<>
-
-Introduction:
-	An investigation into:
-		The impact of singing on infant development and emotional state
-		The role of mothers as a mentor for children both through the use of music and to teach music
 
 Research Questions:
 	(1)What kinds of songs are usually sung to infants?
