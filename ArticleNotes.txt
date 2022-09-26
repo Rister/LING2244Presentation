@@ -28,7 +28,10 @@ Research Questions:
 
 Literature Review:
 	[juhani]
-	<>
+	Studies of informal singing in adulthood and childhood usually concerned with pitch accuracy and sometimes timing accuracy (Dalla Bella et al. 2007; Pfordresher et al. 2010; Welch 1985)
+	Studies of maternal singing focus on expressive features that convey maternal feelings or intentions (Rock et al. 1999; Trehub et al. 1997) and consequences for infants (Masataka 1999; Trainor 1996; Trainor et al. 1997)
+	Visual gestures are integral part of maternal singing since usually occurs in face-to-face contexts (Longhi 2009)
+	Infants', toddlers' reproduction of maternal songs may be largely motivated by propensity for imitation (Gergely and Csibra 2006; Over and Carpenter 2013)
 
 Research Question/Hypothesis:
 	<--remove this?-->
@@ -41,14 +44,22 @@ Methodology:
 Results and Discussion:
 	What kinds of songs are usually sung to infants?
 		[juhani]
-		<>
+		Depends on the culture
+		In cultures where the mother has high physical contact with the infant (developing nation), lullabies seem to be most commonly sung
+		In cultures where childproofing and safe devices (swings, seats, bouncers) let vocal and visual play happen with less physical contact, mothers talk much more than sing, and when singing, usually choose play songs and sometimes lullabies for pre-sleep routines
+		Despite knowing many children's songs, mothers usually only sing a few (often, many repeats), claim they are singing their "infant's favourites"
 	When are infants usually sung to?
 		<>
 	What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
 		<>
 	How do infants respond to singing?
 		[juhani]
-		<>
+		Newborns, 6mo are more attentive to maternal singing - listen longer when unfamiliar women sing in maternal style than non-maternal style
+		Similar listening disposition in hearing newborns with deaf parents "suggests innate bias for positive vocal expressiveness"
+		Infant choice of listening to unfamiliar person who speaks/sings in foreign language is determined by happy-sounding qualities instead of musical/speech status
+		Live maternal singing modulates infant stress arousal - reduction for infants with higher levels, increase in infants with lower levels
+		When 10mo infants are acutely distressed, stress arousal and distress are reduced more rapidly, more completely by multimodal maternal singing than multimodal maternal speech
+		Playful/arousing maternal singing more effective than soothing maternal singing - infants become progressively more aroused by mothers' rhythmic singing, seems to offer distraction from distress
 	How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
 		[juhani]
 		After hearing a brief melody several times, can detect small pitch change (one semitone) in single note of a melody
@@ -73,7 +84,7 @@ Conclusion:
 	(1)<>
 	(2)Primarily when at play, secondarily during routines (diaper changing, feeding, etc.)
 	(3)Often smiling, gives a "happier" sound/conveys happiness; increased usage of gestures; <>
-	(4)<>
+	(4)Infant stress is modulated, happy infants become happier, distressed infants become happy
 	(5)<>
 	(6)<>
 	(7)Yes, in a sense. While not always using vocal interaction (deaf family), sign language and other gestures towards the child are more rythmic than when interacting with adults
