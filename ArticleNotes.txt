@@ -1,0 +1,58 @@
+text conventions:
+<> = text placeholder
+<text> = text to be replaced
+<--text--> = note to be acted on
+
+Article Presentation Notes:
+
+Objectives:
+	Detail the impact of mother's singing on young children
+	Not a research work itself, instead a discussion work
+	<>
+
+Introduction:
+	An investigation into:
+		The impact of singing on infant development and emotional state
+		The role of mothers as a mentor for children both through the use of music and to teach music
+
+Research Questions:
+	(1)What kinds of songs are usually sung to infants?
+	(2)When are infants usually sung to?
+	(3)What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
+	(4)How do infants respond to singing?
+	(5)How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
+	(6)What stages do children go through in learning to sing?
+	(7)Are all mothers singing mentors?
+
+Literature Review:
+	<>
+
+Research Question/Hypothesis:
+	<--remove this?-->
+
+Methodology:
+	<--remove this?-->
+	No direct research used
+	<>
+
+Results:
+	<>
+
+Discussion:
+	<>
+
+Conclusion:
+	(1)<>
+	(2)Primarily when at play, secondarily during routines (diaper changing, feeding, etc.)
+	(3)Often smiling, gives a "happier" sound/conveys happiness; increased usage of gestures; <>
+	(4)<>
+	(5)<>
+	(6)<>
+	(7)Yes, in a sense. While not always using vocal interaction (deaf family), sign language and other gestures towards the child are more rythmic than when interacting with adults
+	Children (especially infants) acquire music similarly to how they acquire language
+		<very early age> can notice changes in musical properties in both western and non-western music, western children quickly lose this ability
+		<>
+	<>
+
+Future Work:
+	<>
