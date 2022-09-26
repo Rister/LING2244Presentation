@@ -1,7 +1,41 @@
 \documentclass{beamer}
+%Themes
+\usetheme{Malmoe}
+\usecolortheme{beetle}
+\usepackage[utf8]{inputenc} %Is this needed?
 
-\author{Juhani Dickinson \\ Jeremy Rist}
+\title{Mothers as Singing Mentors for Infants}
+\subtitle{Article Authors: Gudmundsdottir, H.R. and Trehub, S.E.}
+\author[Juhani Dickinson, Jeremy Rist]{Juhani Dickinson \\ Jeremy Rist}
+
+%Extra macro setup - can remove if unwanted
+%This puts a section slide at the beginning of each section
+\AtBeginSection[]{ %Copied from Stackexchange at https://tex.stackexchange.com/a/178803
+	\begin{frame}
+	\vfill
+	\centering
+	\begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+		\usebeamerfont{title}\secname\par%
+	\end{beamercolorbox}
+	\vfill
+	\end{frame}
+}
+\makeatletter
+\patchcmd{\beamer@section}{{#2}{\the\c@page}}{{#1}{\the\c@page}}{}{}
+\makeatother
 
 
 \begin{document}
+
+\begin{frame}
+	\titlepage
+\end{frame}
+
+\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents
+\end{frame}
+
+%<>
+
 \end{document}
