@@ -48,13 +48,8 @@ Literature Review:
 	Visual gestures are integral part of maternal singing since usually occurs in face-to-face contexts (Longhi 2009)
 	Infants', toddlers' reproduction of maternal songs may be largely motivated by propensity for imitation (Gergely and Csibra 2006; Over and Carpenter 2013)
 
-Research Question/Hypothesis:
-	<--remove this?-->
-
 Methodology:
-	<--remove this?-->
-	No direct research used
-	<>
+	Literature Review
 
 Results and Discussion:
 	What kinds of songs are usually sung to infants?
@@ -109,7 +104,4 @@ Conclusion:
 	Children (especially infants) acquire music similarly to how they acquire language
 		<very early age> can notice changes in musical properties in both Western and non-Western music, Western children quickly lose this ability
 		<>
-	<>
-
-Future Work:
 	<>
