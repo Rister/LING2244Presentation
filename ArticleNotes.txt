@@ -22,7 +22,7 @@ Research Questions:
 	(2)When are infants usually sung to?
 	(3)What mannerisms or methods are used when singing to infants, and how does this differ from non-infant-directed singing?
 	(4)How do infants respond to singing?
-	(5)How does infants' ability to detect changes in musical properties differ from adults' ability to do the same? <--CHANGE THIS QUESTION!-->
+	(5)To what extent can infants detect changes in musical properties?
 	(6)What stages do children go through in learning to sing?
 	(7)Are all mothers singing mentors?
 
@@ -44,6 +44,7 @@ Methodology:
 Results and Discussion:
 	What kinds of songs are usually sung to infants?
 		[juhani]
+		[Question]:What kinds of songs are usually sung to infants?
 		Depends on the culture
 		In cultures where the mother has high physical contact with the infant (developing nation), lullabies seem to be most commonly sung
 		In cultures where childproofing and safe devices (swings, seats, bouncers) let vocal and visual play happen with less physical contact, mothers talk much more than sing, and when singing, usually choose play songs and sometimes lullabies for pre-sleep routines
@@ -58,11 +59,12 @@ Results and Discussion:
 		Similar listening disposition in hearing newborns with deaf parents "suggests innate bias for positive vocal expressiveness"
 		Infant choice of listening to unfamiliar person who speaks/sings in foreign language is determined by happy-sounding qualities instead of musical/speech status
 		Live maternal singing modulates infant stress arousal - reduction for infants with higher levels, increase in infants with lower levels
+		[Question]:What happens when a distressed infant is sung to in a motherly way?
 		When 10mo infants are acutely distressed, stress arousal and distress are reduced more rapidly, more completely by multimodal maternal singing than multimodal maternal speech
 		Playful/arousing maternal singing more effective than soothing maternal singing - infants become progressively more aroused by mothers' rhythmic singing, seems to offer distraction from distress
-	How does infants' ability to detect changes in musical properties differ from adults' ability to do the same?
+	To what extent can infants detect changes in musical properties?
 		[juhani]
-		After hearing a brief melody several times, can detect small pitch change (one semitone) in single note of a melody
+		After hearing a brief melody several times, infants can detect small pitch change (one semitone) in single note of a melody
 		Pitch contour of melody (pattern of directional changes) seems to be most important to infants
 		Sometimes can even detect interval changes when melodic contour remains the same
 		Detect changes in rhythmic grouping even in context of concurrent tempo changes - focus on relative duration instead of absolute, like adults
@@ -71,6 +73,7 @@ Results and Discussion:
 		Perception of metrically ambiguous pattern influenced by pattern of movement they experience while listening - bounced on every second beat responded to duple version as familiar, bounced every third respond to triple version as familiar
 		Starting at 6-7mo, spontaneous movement to rhythmic music becomes increasingly common, but movement is not coordinated with music
 		Adults readily detect small pitch change (less than semitone) in music based on familiar major scale, but fail to detect similar change in music based on unfamiliar scale
+		[Question]:<fill this>
 		9mo infants detect both types of changes
 		Western adults detect metrical changes in context of Balkan music with simple meter but not complex (non-Western) meter
 		By 12mo, infants performed the same way, but knowledge is "fragmentary and superficial" rather than "deeply entrenched" like adults - 12mo can still outperform on complex meter tasks
