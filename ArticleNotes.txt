@@ -83,7 +83,7 @@ Results and Discussion:
 		Perception of metrically ambiguous pattern influenced by pattern of movement they experience while listening - bounced on every second beat responded to duple version as familiar, bounced every third respond to triple version as familiar
 		Starting at 6-7mo, spontaneous movement to rhythmic music becomes increasingly common, but movement is not coordinated with music
 		Adults readily detect small pitch change (less than semitone) in music based on familiar major scale, but fail to detect similar change in music based on unfamiliar scale
-		[Question]:<fill this>
+		[Question]:Young infants go through a similar process learning sounds music as they take through learning sounds of language. What do you think this implies for infants given tests like this one?
 		9mo infants detect both types of changes
 		Western adults detect metrical changes in context of Balkan music with simple meter but not complex (non-Western) meter
 		By 12mo, infants performed the same way, but knowledge is "fragmentary and superficial" rather than "deeply entrenched" like adults - 12mo can still outperform on complex meter tasks
@@ -96,6 +96,7 @@ Results and Discussion:
 		Factors associated with diminished talking to infants also associated with diminished singing to infants (poverty, depression, low educational attainment, etc.)
 		<dramatically less input from socially disadvantaged families>
 		Limited exposure to maternal singing may reflect limited caregiving (one-on-one interaction, sensitivity to emotional needs)
+		[Question]:What do you think happens for singing mentorship when the mother cannot sing - i.e. deaf signing parents?
 		Deaf signing mothers do not sing or talk to infants, but provide other sensitive one-on-one interaction
 		Signed communication with infants has slower tempo, more exaggerated movements, which is highly engaging to infants
 		Infants of deaf signing parents receive rhythmic dance-like gestures instead of rhythmic singing
