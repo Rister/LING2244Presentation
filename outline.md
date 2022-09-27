@@ -4,7 +4,6 @@
 - Objectives *Jeremy*
 - Research Questions *Jeremy*
 - Literature Review *Juhani*
-- Methodology *Juhani*
 - Results and Discussion
 	- What kinds of songs are usually sung to infants *Juhani*
 	- When are infants usually sung to? *Jeremy*
