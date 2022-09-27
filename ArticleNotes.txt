@@ -7,15 +7,30 @@ Article Presentation Notes:
 
 Introduction:
 	<--should have this section before objectives, since we should introduce non-standard nature of article-->
+	Article in _The Oxford Handbook of Singing_
+
+	Authors:
+		Sandra E. Trehub:
+			PhD in Psychology obtained from McGill in 1973
+			Professor Emerita with the University of Toronto
+			Much of her research was focused on maternal singin and its impacto on infant and childhood development
+
+		Helga Rut Gudmundsdottir:
+			Associate Professor of Music Educatioin at the University of Iceland
+			She teaches early childhood music methods and music pedagogy for elementary and middle school.
+
 	An investigation into:
 		The impact of singing on infant development and emotional state
 		The role of mothers as a mentor for children both through the use of music and to teach music
 		Infants' perception of music and ability to detect changes in musical properties
 
 Objectives:
+/*
 	Detail the impact of mother's singing on young children
 	Not a research work itself, instead a discussion work
-	<>
+*/
+	- Review the literature surrounding the materinal activity of singing to a child
+	- Observe and catalog the emotional response of a child to maternal song
 
 Research Questions:
 	(1)What kinds of songs are usually sung to infants?
